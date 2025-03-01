@@ -53,6 +53,8 @@ Preencha os campos e clique em "Agendar".
 
 Veja a mensagem de sucesso ou erro após o envio.
 
+**Adicione o arquivo das credenciais do Google Calendar junto ao arquivo server.js em um arquivo JSON com o nome credenciais.json**
+
 🎯 Como Funciona o Código
 HTML (index.html)
 Contém o formulário com campos para:
